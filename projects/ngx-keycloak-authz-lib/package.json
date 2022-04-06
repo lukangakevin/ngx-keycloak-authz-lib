@@ -1,0 +1,26 @@
+{
+  "name": "ngx-keycloak-authz-lib",
+  "version": "0.0.1",
+  "description": "Bibliothèque d'authorisation Keycloak pour Angular",
+  "keywords": ["Keycloak","Keycloak Authorization"],
+  "author": {
+    "name": "Kevin Lukanga",
+    "email": "kevinlukanga@gmail.com"
+  },
+
+  "repository": {
+    "type": "git",
+    "url":""
+  },
+  "peerDependencies": {
+    "@angular/common": "~12.2.0",
+    "@angular/core": "~12.2.0",
+    "@angular/router": "~12.2.0",
+    "keycloak-angular": "^8.4.0",
+    "rxjs": "~6.6.0",
+    "typy": "^3.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
